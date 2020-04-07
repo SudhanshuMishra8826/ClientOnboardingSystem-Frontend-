@@ -16,8 +16,5 @@ npm start
 ### Sneak Peak
 
 ![Screen1](./demo/1.png)
-![Screen1](./demo/2.png)
 ![Screen1](./demo/3.png)
-![Screen1](./demo/4.png)
 ![Screen1](./demo/5.png)
-![Screen1](./demo/6.png)
